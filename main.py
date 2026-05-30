@@ -27,7 +27,9 @@ FEEDS = {
     "Hugging Face": "https://huggingface.co/blog/feed.xml",
     "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "Microsoft Research": "https://www.microsoft.com/en-us/research/blog/feed/",
-    "Nvidia Blog": "https://blogs.nvidia.com/feed/"
+    "Nvidia Blog": "https://blogs.nvidia.com/feed/",
+    "Meta AI": "https://ai.meta.com/blog/rss/",                   # Nueva fuente
+    "AWS ML Blog": "https://aws.amazon.com/blogs/machine-learning/feed/" # Nueva fuente
 }
 
 STATE_FILE = "sent_articles.json"
