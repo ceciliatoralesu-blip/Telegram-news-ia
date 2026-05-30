@@ -1,4 +1,4 @@
-# Bot de Telegram para Noticias de IA con Gemini y GitHub Actions
+#  Bot de Telegram para Noticias de IA con Gemini y GitHub Actions
 
 Este proyecto es un bot automatizado que recopila noticias de Inteligencia Artificial de múltiples fuentes RSS (como OpenAI, Google Research, Hugging Face, etc.), genera un resumen en español usando **Gemini 2.5 Flash** y las envía en tiempo real a un canal o chat de Telegram.
 
