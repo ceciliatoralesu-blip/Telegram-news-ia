@@ -1865,5 +1865,8 @@
     "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
     "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/",
     "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-    "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
+    "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+    "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
+    "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
+    "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/"
 ]
