@@ -2024,5 +2024,8 @@
     "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
     "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-    "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/"
+    "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+    "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+    "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+    "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/"
 ]
