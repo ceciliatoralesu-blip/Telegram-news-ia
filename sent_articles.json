@@ -2117,5 +2117,8 @@
     "https://huggingface.co/blog/zai-org/glm-52-blog",
     "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
     "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-    "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+    "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
+    "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/",
+    "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/"
 ]
