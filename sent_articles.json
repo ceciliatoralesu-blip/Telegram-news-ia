@@ -2288,5 +2288,8 @@
     "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/",
     "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
+    "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
+    "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+    "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/"
 ]
