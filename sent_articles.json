@@ -2314,5 +2314,8 @@
     "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
     "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
+    "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
+    "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
+    "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/"
 ]
