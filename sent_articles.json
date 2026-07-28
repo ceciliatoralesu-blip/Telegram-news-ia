@@ -2665,5 +2665,7 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
+    "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+    "https://openai.com/index/scientific-computing-agentic-ai",
+    "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/"
 ]
