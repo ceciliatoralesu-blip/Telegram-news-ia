@@ -4069,5 +4069,8 @@
     "https://openai.com/index/higgsfield-longer-videos-voice",
     "https://openai.com/index/pollo-ai",
     "https://openai.com/index/oracle",
-    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+    "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+    "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"
 ]
