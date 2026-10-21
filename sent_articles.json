@@ -4105,5 +4105,8 @@
     "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
     "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
     "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-    "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/"
+    "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+    "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
+    "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
+    "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/"
 ]
