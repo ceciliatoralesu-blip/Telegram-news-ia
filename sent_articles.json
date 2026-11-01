@@ -4270,5 +4270,8 @@
     "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "https://huggingface.co/blog/LiquidAI/lfm3",
     "https://huggingface.co/blog/anydecisionmodel",
-    "https://huggingface.co/blog/mistral-large4"
+    "https://huggingface.co/blog/mistral-large4",
+    "https://huggingface.co/blog/project-numina/kimina-prover",
+    "https://huggingface.co/blog/project-numina/kimina-prover-rl",
+    "https://huggingface.co/blog/allenai/novelty-bench"
 ]
