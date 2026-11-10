@@ -4366,5 +4366,8 @@
     "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
     "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
     "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-    "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/"
+    "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+    "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+    "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+    "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"
 ]
