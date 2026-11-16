@@ -4438,5 +4438,8 @@
     "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
     "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
     "https://huggingface.co/blog/allenai/xybench",
-    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/",
+    "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
+    "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/"
 ]
